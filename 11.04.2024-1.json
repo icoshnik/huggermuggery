@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Wise",
+    "age": 6,
+    "address": {
+        "street": "Blake Falls",
+        "city": "West Marieshire",
+        "state": "Texas",
+        "zip": "05564"
+    },
+    "contact": {
+        "phone": "501-573-9009",
+        "servicePhone": "800923612"
+    },
+    "birthday": "2019-14-09",
+    "ip": "4.39.63.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear base again worry into. Sound family friend another do.\nCatch why it seven. Statement drug live would source.\nOnly recent main share significant. Book east security.",
+        "bio": "Price upon soon this option. Color toward five dinner contain office long. Own despite activity practice difference scientist."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
