@@ -1,0 +1,25 @@
+{
+    "name": "David Baker",
+    "age": 18,
+    "address": {
+        "street": "Stephen Points",
+        "city": "North Michaelbury",
+        "state": "Pennsylvania",
+        "zip": "81603"
+    },
+    "contact": {
+        "phone": "677-468-2369x3896",
+        "servicePhone": "800566423"
+    },
+    "birthday": "2007-13-04",
+    "ip": "23.64.37.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Watch memory art then he. Field open clearly. Trade sea thank imagine spring recently which. Social provide firm often structure view.",
+        "bio": "Themselves bank trouble push take majority network. Tree gas knowledge why.\nNature per energy safe yourself interesting win."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
