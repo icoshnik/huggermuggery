@@ -1,0 +1,25 @@
+{
+    "name": "Leonard Holland",
+    "age": 76,
+    "address": {
+        "street": "Mark Motorway",
+        "city": "Petersonport",
+        "state": "North Dakota",
+        "zip": "06629"
+    },
+    "contact": {
+        "phone": "683-623-6889",
+        "servicePhone": "800841528"
+    },
+    "birthday": "1949-20-06",
+    "ip": "19.88.143.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Price building simple bag exactly. Marriage letter buy majority number house.\nRead different back look. Public prepare live thousand be drop than charge. Water lead southern forget black fear list.",
+        "bio": "Collection thank meeting keep if leader. Visit make between rate cup west night fine. Billion season girl factor drive."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
