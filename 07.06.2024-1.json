@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Flores",
+    "age": 7,
+    "address": {
+        "street": "Bill Corners",
+        "city": "West Richard",
+        "state": "Wisconsin",
+        "zip": "86856"
+    },
+    "contact": {
+        "phone": "4522277727",
+        "servicePhone": "800239100"
+    },
+    "birthday": "2018-07-09",
+    "ip": "44.129.114.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Task air history cost local easy. Way radio offer charge everybody. Focus great whatever.\nInformation memory past many. Expect war of man someone current.",
+        "bio": "Piece road source money. Doctor economy inside skill soon.\nIf up consider same majority article clear. Concern explain home nation course."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
