@@ -1,0 +1,25 @@
+{
+    "name": "Gail Valdez",
+    "age": 73,
+    "address": {
+        "street": "Holt Port",
+        "city": "Desireeshire",
+        "state": "Maine",
+        "zip": "01299"
+    },
+    "contact": {
+        "phone": "442.854.4082",
+        "servicePhone": "800561133"
+    },
+    "birthday": "1952-09-05",
+    "ip": "145.64.68.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy somebody subject conference health company. International wish keep ball.",
+        "bio": "Bring ground billion town suggest collection generation. Oil magazine thought trial Democrat theory. Tree authority yes middle."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
