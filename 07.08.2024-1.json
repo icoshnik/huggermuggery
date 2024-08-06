@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Rodriguez",
+    "age": 11,
+    "address": {
+        "street": "Williams Mountains",
+        "city": "Port Austinborough",
+        "state": "Florida",
+        "zip": "71910"
+    },
+    "contact": {
+        "phone": "001-398-496-5458x006",
+        "servicePhone": "800890818"
+    },
+    "birthday": "2014-20-12",
+    "ip": "24.206.104.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich recognize fast continue ten choose break. Stop war home that.\nCar together truth my. Mouth of until team room property full.\nHealth so recognize. Adult discuss cup machine less former someone.",
+        "bio": "Yard serious act reality talk decide out defense. Assume maybe while agency doctor since. Fear understand traditional between plan step reach population."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
