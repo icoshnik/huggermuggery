@@ -1,0 +1,25 @@
+{
+    "name": "Amber Washington",
+    "age": 99,
+    "address": {
+        "street": "Gonzalez Run",
+        "city": "East Jonborough",
+        "state": "Missouri",
+        "zip": "01384"
+    },
+    "contact": {
+        "phone": "001-712-822-3406x1948",
+        "servicePhone": "800177989"
+    },
+    "birthday": "1926-07-08",
+    "ip": "41.41.80.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Save all capital. Plan amount thank decide western. Letter ask there.\nTv scene relationship activity.\nMaintain race interesting of morning dog her. Think manager cover.",
+        "bio": "Foot hospital plant nearly above protect. Above why respond determine. Section no term positive my human live standard.\nLight color through use they. Opportunity among accept. The where treat."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
