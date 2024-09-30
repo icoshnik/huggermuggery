@@ -1,0 +1,25 @@
+{
+    "name": "Charles Johnson",
+    "age": 13,
+    "address": {
+        "street": "Estes Crescent",
+        "city": "South Raymondtown",
+        "state": "South Carolina",
+        "zip": "86124"
+    },
+    "contact": {
+        "phone": "734.275.0921",
+        "servicePhone": "800599401"
+    },
+    "birthday": "2012-09-12",
+    "ip": "110.191.20.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Property certain case especially. Determine themselves factor seven. Peace surface late everybody.",
+        "bio": "Wind support ball require. Successful approach evening worker listen rise discuss meeting. Major class level."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
