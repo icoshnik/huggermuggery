@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Merritt",
+    "age": 7,
+    "address": {
+        "street": "Jones Island",
+        "city": "New Christinebury",
+        "state": "New York",
+        "zip": "27783"
+    },
+    "contact": {
+        "phone": "(689)814-0762x60393",
+        "servicePhone": "800231687"
+    },
+    "birthday": "2018-01-04",
+    "ip": "142.61.119.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge animal pull become keep just near. Him ten create. Business join turn writer. International address moment run group hope card.",
+        "bio": "Member on agency subject born. Firm find former discussion here.\nSame ready development will only already. Lawyer nature life north art. Another well design apply perform scientist day."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
