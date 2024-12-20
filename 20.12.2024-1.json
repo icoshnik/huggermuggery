@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lewis",
+    "age": 61,
+    "address": {
+        "street": "Johnson Cliffs",
+        "city": "Hatfieldburgh",
+        "state": "California",
+        "zip": "73359"
+    },
+    "contact": {
+        "phone": "942-739-3797x02024",
+        "servicePhone": "800847459"
+    },
+    "birthday": "1964-03-05",
+    "ip": "53.233.156.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Across lawyer body hot expert area. Away go couple without who. Head boy party mention cold reach usually.\nForm teach part town particularly.",
+        "bio": "Rate unit deal try unit. Few major risk who fight.\nLife off song. Cup sense serious over occur save draw state. Stuff manager relate detail."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
