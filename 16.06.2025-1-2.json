@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Ruiz",
+    "age": 72,
+    "address": {
+        "street": "Mcgee Streets",
+        "city": "New Kristin",
+        "state": "Virginia",
+        "zip": "84602"
+    },
+    "contact": {
+        "phone": "(979)515-9506x1310",
+        "servicePhone": "800879593"
+    },
+    "birthday": "1953-29-09",
+    "ip": "140.211.77.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting meeting seem. Fire of better house myself tough center step. Now some hospital contain identify occur language anything.\nCould society at day conference. So same maybe start.",
+        "bio": "Modern someone often he nearly treatment common. Between continue just scientist war model. Debate increase main professor Mr despite yet increase."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
