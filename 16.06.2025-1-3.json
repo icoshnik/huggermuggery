@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Ford",
+    "age": 85,
+    "address": {
+        "street": "Alicia Divide",
+        "city": "Pattersonland",
+        "state": "Ohio",
+        "zip": "34291"
+    },
+    "contact": {
+        "phone": "(685)364-4494",
+        "servicePhone": "800801564"
+    },
+    "birthday": "1940-16-08",
+    "ip": "184.140.199.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit so customer where. Religious rich born manage wife. Just theory inside. Mind its argue animal his.\nDecade catch street live check. Husband claim wind discussion blue.",
+        "bio": "Everything product wind process prevent. Force page special address.\nApproach audience product remember song. Road now a single."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
