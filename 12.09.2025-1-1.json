@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Stewart DDS",
+    "age": 47,
+    "address": {
+        "street": "Stephanie Terrace",
+        "city": "East Brandon",
+        "state": "Maine",
+        "zip": "72927"
+    },
+    "contact": {
+        "phone": "(269)987-7579",
+        "servicePhone": "800790497"
+    },
+    "birthday": "1978-03-08",
+    "ip": "30.209.65.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything stuff energy cut improve miss of. Send ten people thank strategy spend. Rock form meet rest free.\nStandard suggest which write food. Wish month edge large land whether maybe.",
+        "bio": "Reflect buy in magazine newspaper Mrs.\nUse road work eight street now right news. Positive president gas democratic body responsibility move."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
