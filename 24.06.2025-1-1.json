@@ -1,0 +1,25 @@
+{
+    "name": "John Kennedy",
+    "age": 22,
+    "address": {
+        "street": "Gregory Fall",
+        "city": "Lake Kellyberg",
+        "state": "West Virginia",
+        "zip": "22502"
+    },
+    "contact": {
+        "phone": "+1-816-350-5362x956",
+        "servicePhone": "800192066"
+    },
+    "birthday": "2003-17-02",
+    "ip": "174.49.159.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay color people board wife. Both street method. Make according one.\nOfficer they play person responsibility city. Worry morning any card house.",
+        "bio": "Sing collection ten these. Coach different without science shoulder born sense. Money down child trip else write line.\nBegin often safe big none."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

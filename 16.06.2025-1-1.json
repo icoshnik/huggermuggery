@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Shaffer",
+    "age": 78,
+    "address": {
+        "street": "Ramirez Circles",
+        "city": "West Michaelhaven",
+        "state": "Indiana",
+        "zip": "83092"
+    },
+    "contact": {
+        "phone": "270.809.5802x347",
+        "servicePhone": "800790506"
+    },
+    "birthday": "1947-25-07",
+    "ip": "181.241.54.101",
+    "foo": "bar",
+    "profile": {
+        "about": "See house game. Dream there economic.\nJust street both along thus. Remain agency tough. Also audience culture back.",
+        "bio": "Religious describe season cost. Less believe cup last necessary project use."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
