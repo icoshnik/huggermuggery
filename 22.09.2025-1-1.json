@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Gross",
+    "age": 50,
+    "address": {
+        "street": "Robin Trafficway",
+        "city": "Stacyborough",
+        "state": "Kansas",
+        "zip": "52766"
+    },
+    "contact": {
+        "phone": "001-686-854-0002x41611",
+        "servicePhone": "800151921"
+    },
+    "birthday": "1975-19-04",
+    "ip": "97.189.150.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Color seek manager play social. Require never sound almost fish.",
+        "bio": "Sea suffer forget game including low.\nHit film should hundred. Method choose attention this. Have likely former eat this."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
