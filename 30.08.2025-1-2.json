@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Molina",
+    "age": 34,
+    "address": {
+        "street": "Theresa Haven",
+        "city": "East Jeffrey",
+        "state": "New Jersey",
+        "zip": "55754"
+    },
+    "contact": {
+        "phone": "418.687.4083x1321",
+        "servicePhone": "800731042"
+    },
+    "birthday": "1991-07-02",
+    "ip": "170.210.191.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Material pay something couple make.\nFive mind room enjoy. White only weight sing contain college form.",
+        "bio": "Able young song American type life. Small particularly put traditional power. Door clear against gas make."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
