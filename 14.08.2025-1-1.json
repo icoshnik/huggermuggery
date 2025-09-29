@@ -1,0 +1,25 @@
+{
+    "name": "William Garcia",
+    "age": 43,
+    "address": {
+        "street": "Melinda Plaza",
+        "city": "Douglastown",
+        "state": "Maine",
+        "zip": "34310"
+    },
+    "contact": {
+        "phone": "927-379-0127x8320",
+        "servicePhone": "800193540"
+    },
+    "birthday": "1982-04-07",
+    "ip": "63.16.98.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Law air quality hope pattern skill. Fire event development. Investment quickly tax suggest mind a show.\nAudience all sell this without theory rich Mr. Hope break budget boy American player protect.",
+        "bio": "Machine whatever real will decide here. Out value street note listen attack."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

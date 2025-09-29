@@ -1,0 +1,25 @@
+{
+    "name": "Sean Levine",
+    "age": 71,
+    "address": {
+        "street": "Nichols Flat",
+        "city": "Lake Rita",
+        "state": "North Dakota",
+        "zip": "69635"
+    },
+    "contact": {
+        "phone": "(423)236-8567",
+        "servicePhone": "800263863"
+    },
+    "birthday": "1954-20-04",
+    "ip": "140.252.5.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing far image keep choose stay someone. Very learn activity purpose fund rock. Few commercial where former simple open.",
+        "bio": "Third food ready level seem look discuss. Fill investment coach event according. Store yard race form their.\nBuy owner central conference various he. Much high product later article necessary city."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

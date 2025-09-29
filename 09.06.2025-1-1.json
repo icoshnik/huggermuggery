@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Tanner",
+    "age": 59,
+    "address": {
+        "street": "Wilson Turnpike",
+        "city": "Michaelland",
+        "state": "Colorado",
+        "zip": "99465"
+    },
+    "contact": {
+        "phone": "406-558-1100x38112",
+        "servicePhone": "800805753"
+    },
+    "birthday": "1966-30-05",
+    "ip": "210.128.44.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention nor able dog though present. Its soldier heavy color run. Free put fund be. When house sound.\nMinute beyond miss rest city itself number. Develop society stay part.",
+        "bio": "Whole look sure town consider. Bar message gun moment summer least.\nNorth stop man about forget everyone. Job decision choice administration. Others professional he thing production."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
