@@ -1,0 +1,25 @@
+{
+    "name": "Tina Herrera",
+    "age": 66,
+    "address": {
+        "street": "Davis Glen",
+        "city": "Bridgeston",
+        "state": "New Hampshire",
+        "zip": "41386"
+    },
+    "contact": {
+        "phone": "+1-793-886-0104x26612",
+        "servicePhone": "800866682"
+    },
+    "birthday": "1959-12-04",
+    "ip": "63.97.121.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost reality trade manager what. Summer test interview suggest budget marriage reflect. Pattern imagine name organization force sort.\nSuffer help song. Tv meeting popular.",
+        "bio": "Play accept myself young president our space some. Realize item thousand surface note necessary. Wide design conference current north lot."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

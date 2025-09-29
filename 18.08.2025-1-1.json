@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Payne",
+    "age": 81,
+    "address": {
+        "street": "Desiree Groves",
+        "city": "Ashleyhaven",
+        "state": "Massachusetts",
+        "zip": "34314"
+    },
+    "contact": {
+        "phone": "001-933-623-5858x013",
+        "servicePhone": "800467630"
+    },
+    "birthday": "1944-07-02",
+    "ip": "182.224.193.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Skin itself minute research open feeling task. Forward own wrong many speech name happen east.\nWoman season sense where before the bill. Affect present team lose beat window even.",
+        "bio": "Rather international education industry grow. Traditional high toward reason evening much."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
