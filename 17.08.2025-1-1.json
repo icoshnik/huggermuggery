@@ -1,0 +1,25 @@
+{
+    "name": "Richard Campbell",
+    "age": 78,
+    "address": {
+        "street": "Carroll Unions",
+        "city": "Garystad",
+        "state": "Indiana",
+        "zip": "02673"
+    },
+    "contact": {
+        "phone": "7214980141",
+        "servicePhone": "800201519"
+    },
+    "birthday": "1947-05-10",
+    "ip": "137.144.35.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself together culture control our concern per. Stand range water high because drop.\nTen suggest personal across. Commercial play traditional available know college.",
+        "bio": "Decade reduce data station main beat word something. Box music line note. Difference step apply support low.\nPattern participant whose financial drive like stand. Try play design degree."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

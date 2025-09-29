@@ -1,0 +1,25 @@
+{
+    "name": "Darlene Burch",
+    "age": 57,
+    "address": {
+        "street": "Robert Roads",
+        "city": "Ellismouth",
+        "state": "Louisiana",
+        "zip": "59968"
+    },
+    "contact": {
+        "phone": "(278)224-6224",
+        "servicePhone": "800616630"
+    },
+    "birthday": "1968-18-12",
+    "ip": "220.122.22.211",
+    "foo": "bar",
+    "profile": {
+        "about": "People billion imagine full either mission. Alone administration close official suffer upon our. Environmental factor PM those add chance.",
+        "bio": "Group hard want wall beat huge allow. Decade professor article call matter rich. Of organization lawyer.\nGroup building east else take capital from. Record past wide environment pull nation."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Frank Hernandez",
+    "age": 107,
+    "address": {
+        "street": "Sullivan Tunnel",
+        "city": "South Ashley",
+        "state": "North Dakota",
+        "zip": "54321"
+    },
+    "contact": {
+        "phone": "431-836-3990",
+        "servicePhone": "800332267"
+    },
+    "birthday": "1918-10-11",
+    "ip": "190.7.204.5",
+    "foo": "bar",
+    "profile": {
+        "about": "There long side cut buy let. Want they north spring face person dream rate. Money different trade carry wall.",
+        "bio": "Artist world home black account article. Effort relationship fast range development. Turn rich long minute military not send."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
