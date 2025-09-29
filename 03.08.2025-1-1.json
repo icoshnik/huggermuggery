@@ -1,0 +1,25 @@
+{
+    "name": "Brian Gutierrez",
+    "age": 51,
+    "address": {
+        "street": "Williamson Village",
+        "city": "Christinemouth",
+        "state": "Delaware",
+        "zip": "76006"
+    },
+    "contact": {
+        "phone": "+1-739-796-1598x689",
+        "servicePhone": "800368215"
+    },
+    "birthday": "1974-26-02",
+    "ip": "53.237.155.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Include cell day bring economic stay eye team. Follow feel buy wait large cultural despite.\nEye moment source nice most do. Situation stay political. Mission at fish kitchen ten word side him.",
+        "bio": "Class line number major center skin pull. Call company back radio nation.\nMeeting possible health through feeling. Go point financial machine get best. Art thank watch."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
