@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Pierce",
+    "age": 67,
+    "address": {
+        "street": "Williams Islands",
+        "city": "Mcintoshport",
+        "state": "Florida",
+        "zip": "92534"
+    },
+    "contact": {
+        "phone": "278.230.4418x7734",
+        "servicePhone": "800560079"
+    },
+    "birthday": "1958-15-04",
+    "ip": "93.41.15.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference boy area throw point.\nChoose mother with door left question. Within down professor event ball. Per well a tree.",
+        "bio": "Figure always force send ago together improve. Cost television nor son south quality account idea.\nHouse fire office own reveal table continue."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
