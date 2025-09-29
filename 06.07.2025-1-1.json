@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Larsen",
+    "age": 73,
+    "address": {
+        "street": "Jamie Cliff",
+        "city": "Lake Jeffport",
+        "state": "Maine",
+        "zip": "47521"
+    },
+    "contact": {
+        "phone": "841-601-9895x992",
+        "servicePhone": "800673772"
+    },
+    "birthday": "1952-29-08",
+    "ip": "102.67.187.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Call society lay. And girl want lot whose.\nHope new affect stuff. Service piece end human. Know memory deal market.\nAny industry against maybe piece.",
+        "bio": "Next yourself teach end. Simply economic near trial. Boy boy bill prevent property structure."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

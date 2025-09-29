@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Collins",
+    "age": 79,
+    "address": {
+        "street": "Andrew Loaf",
+        "city": "Crosschester",
+        "state": "Louisiana",
+        "zip": "63269"
+    },
+    "contact": {
+        "phone": "498-412-4273x36365",
+        "servicePhone": "800029724"
+    },
+    "birthday": "1946-29-05",
+    "ip": "198.148.142.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire kitchen different reduce news. Way since rate body.\nCause drive no chair thing style bed. After sometimes alone. And society recently nothing.",
+        "bio": "Because health condition. Theory life matter may peace build character bring.\nEnvironmental guess short value sometimes above. Always painting able nothing professional bring force."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
